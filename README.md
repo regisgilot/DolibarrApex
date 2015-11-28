@@ -1,6 +1,8 @@
 # DolibarrApex
 Portage de dolibarr en Oracle Apex
 
+On se base sur la DB mysql Dolibarr pour porter vers oracle Apex (Aplication express) open source
+
 Le but de ce projet est de porter Dolibarr en Apex 
 les fonctionnalités :
 1) gestion des tiers
